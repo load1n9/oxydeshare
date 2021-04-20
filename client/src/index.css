@@ -1,0 +1,10 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+body {
+    -ms-overflow-style: none;
+    scrollbar-width: none; /* Firefox */
+}
+.monaco-editor {
+    padding-top: 1.5%;
+  }
