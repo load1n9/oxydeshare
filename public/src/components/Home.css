@@ -1,0 +1,9 @@
+.light {
+    background: rgb(134, 130, 130);
+    height:100vh;
+}
+
+.dark {
+    background: rgb(41, 41, 44);
+    height:100vh;
+}
